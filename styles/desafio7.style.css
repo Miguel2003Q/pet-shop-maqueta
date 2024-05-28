@@ -1,0 +1,9 @@
+* {
+  font-size: 1.2rem;
+}
+
+/*Agrega los selectores aquí */
+div > p{
+  color: darkviolet;
+}
+/*Agrega los selectores aquí */
